@@ -19,6 +19,10 @@ presenters:
       Ben will tell us all about the power of functional programming,
       specifically memoization and how it can help speed up frequently used side
       effect-less functions.
+  - image: /img/img_6323.jpg
+    name: Sloopy von Droopenwinkle
+    presentationTitle: Fuck Everything
+    text: Fuck this complicated bullshit
 location:
   mapsLatitude: 64.843779
   mapsLink: 'https://goo.gl/maps/LLgicn3zGuy'
