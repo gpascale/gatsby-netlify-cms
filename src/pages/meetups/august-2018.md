@@ -12,13 +12,6 @@ presenters:
       control, caching, batching and a couple advanced strategies to make your
       application faster all while saving on infrastructure costs.
 
-  - image: /img/marius-ciocirlan-398931-unsplash.jpg
-    name: Ben Wilson
-    presentationTitle: Memoizing functions
-    text: >-
-      Ben will tell us all about the power of functional programming,
-      specifically memoization and how it can help speed up frequently used side
-      effect-less functions.
   - image: /img/img_6323.jpg
     name: Sloopy von Droopenwinkle
     presentationTitle: Fuck Everything
