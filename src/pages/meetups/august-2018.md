@@ -15,13 +15,10 @@ presenters:
   - image: /img/img_6323.jpg
     links:
       - linkText: Slides
-        linkURL: fuckyouyoustupidfuckingasshole.com
+        linkURL: thesearetheslidestothetalk.com
     name: Sloopy von Derpenwinkle
-    presentationTitle: 'Fuck You, Stupid Fucking Asshole'
-    text: >-
-      if you're a fucking stupid asshole, this would be a great meetup to come
-      to. You'll meet other stupid fucking assholes and talk about stupid
-      asshole shit. Go fuck yourself, you stupid fucking asshole.
+    presentationTitle: 'My talk'
+    text: >- This is a talk
 location:
   mapsLatitude: 64.843779
   mapsLink: 'https://goo.gl/maps/LLgicn3zGuy'
